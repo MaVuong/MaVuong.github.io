@@ -4,3 +4,9 @@ kr
 jp
 de
 vn
+my
+sg
+in
+id
+hk
+th
