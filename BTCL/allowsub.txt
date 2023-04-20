@@ -1,5 +1,6 @@
+ca
 us
-uk
+kr
+jp
 de
-es
 vn
