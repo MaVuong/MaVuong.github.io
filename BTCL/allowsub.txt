@@ -1,8 +1,2 @@
-ca
-us
-kr
-jp
-de
-gb
-uk
-vn
+xx
+yy
