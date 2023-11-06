@@ -1,2 +1,3 @@
 google.com, pub-2366990044748098, DIRECT, f08c47fec0942fa0
 facebook.com, 703821220463236, DIRECT, c3e20eee3f780d68
+chartboost.com, 58a530fd04b01602848f2b2d, DIRECT
