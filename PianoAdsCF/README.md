@@ -15,7 +15,7 @@ BannerForUI_KTra_H
 BannerForUI_KT_M
 
 ```
-<br> Với trang 404 là mặc định mọi thứ. Tốt nhất là 3 file này giống nhau GLB,Index.html,404
+<br> Với trang 404 là mặc định mọi thứ. Tốt nhất là 3 file này giống nhau ```GLB, Index.html, 404```
 <br> Mỗi file với tiền tố là CF-CountryCode , ví dụ CF-VN.txt, CF-US.txt ...
 <br> Config ví dụ như sau tên ID, loại banner(1 là fullwith,0 là biểu ngữ), thời gian(tính bằng giây)
 ```
