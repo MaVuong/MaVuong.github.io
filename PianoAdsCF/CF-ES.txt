@@ -1,5 +1,5 @@
 Banner_H,1,15
 BannerForUI_KTra_H,1,20
-BannerForUI_KTra_H,0,10
+BannerForUI_KT_M,1,15
 Banner_HC,1,15
 Banner_LC,1,50

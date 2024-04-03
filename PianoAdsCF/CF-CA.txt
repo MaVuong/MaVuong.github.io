@@ -1,5 +1,4 @@
-Banner_H,1,25
-Banner_MC,1,25
+Banner_H,Banner_MC,1,25
 BannerForUI_KT_M,1,30
 Banner_M,1,20
 Banner_ONDINH_MC,1,50
