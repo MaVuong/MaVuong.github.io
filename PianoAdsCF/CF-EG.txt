@@ -1,8 +1,8 @@
-BannerForUI_KTra_H,1,25
-Banner_HC,1,25
+Banner_H,1,25
 Banner_MC,1,25
-Banner_L,1,25
-Banner_LC,1,35
-BannerForUI_KT_M,1,35
-Banner_M,Banner_ONDINH_MC,1,25
-Banner_H,1,20
+BannerForUI_KTra_H,1,25
+Banner_ONDINH_MC,1,35
+Banner_L,1,35
+Banner_LC,Banner_M,1,25
+Banner_HC,1,20
+BannerForUI_KT_M,1,20
