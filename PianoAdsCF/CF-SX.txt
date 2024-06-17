@@ -1,1 +1,4 @@
-ºw^~)Þ
+Banner_H,1,30
+Banner_ONDINH_MC,1,25
+Banner_MC,1,15
+Banner_L,1,30
