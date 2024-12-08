@@ -1,4 +1,6 @@
-Banner_HC1,1,30
+Banner_H,1,35
 Banner_ONDINH_MC,1,35
-Banner_H,1,37
-Banner_L,1,35
+Banner_MC,1,35
+Banner_HC1,1,40
+Banner_HC2,1,28
+Banner_L,1,33
