@@ -784,3 +784,13 @@ adingenious.com, 75036, RESELLER
 apester.com, 2212, RESELLER
 myfeature.tv, N1fNlXquFCVDX3gt6MJN, RESELLER
 hindsightsolutions.net, HSINMOBI100000, RESELLER
+
+risecodes.com, 6486c6155b231000010244b0, RESELLER 
+risecodes.com, 66fab6981efdb80001a3dadc, RESELLER
+risecodes.com, 64e346c45ab8e700016b45cd, RESELLER
+risecodes.com, 6548dccf58df6d00010625d2, RESELLER 
+risecodes.com, 66387b961eb0af000195fb9f, RESELLER
+risecodes.com, 663cba61d3708c000172de04, RESELLER
+risecodes.com, 6641bedf41d2c40001d02751, RESELLER
+risecodes.com, 6769332c8eb1b90001e9ed6f, RESELLER
+risecodes.com, 67ac81ac2c875500018fbbfc, RESELLER
