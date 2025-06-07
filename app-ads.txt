@@ -1411,3 +1411,10 @@ zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zoomd.com,88478941,RESELLER
 
+
+#start pangle 
+
+pangleglobal.com, 5014754, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+
+
